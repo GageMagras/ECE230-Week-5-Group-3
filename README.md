@@ -15,7 +15,7 @@ the constraints file maps your inputs and outputs to real pins on the FPGA.
 
 ## Lab Questions
 
-We learned that we can connect two different circuits from two different files in the top file for our project. We also learned there are multiple ways to connect inputs to outputs within the top file such as simply setting an input as an led. This works because the led gives either a 1 or 0, on or off. We also learned that the constraints file is what allows us to activate the various switches, leds, buttons etc on the board.
+We learned that we can connect two different circuits from two different files in the top file for our project. We learned there are multiple ways to connect inputs to outputs within the top file such as simply setting an input as an led. This works because the led gives either a 1 or 0, on or off. We also learned that the constraints file is what allows us to activate the various switches, leds, buttons etc on the board.
 
 ### 1 - Explain the role of the Top Level file.
 
